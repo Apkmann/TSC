@@ -1,0 +1,7 @@
+{
+  "name": "TNPSC Group IV Master Dashboard",
+  "description": "A comprehensive study hub for TNPSC Group IV preparation, featuring syllabus tracking, study links, local library management, and a countdown to the 2026 exam.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
